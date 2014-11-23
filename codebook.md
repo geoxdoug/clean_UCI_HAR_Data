@@ -9,11 +9,16 @@ Prrocessing and manipulation of the raw data is detailed below:
 
 <strong>1) Processing:</strong>
 
-1.A - Merges the measurement data of both the test and train data set.</br></br>
+1.A - Merges the measurement data of both the test and train data set.
+
 1.B - Adds the variable 'subject' to both the test and train data sets.
+
 1.C - Addes the variable 'activity' to both the test and train data sets.
+
 1.D - Keeps onnly variables that are mean or standard deviations
+
 1.E - converts variable 'activity' into a factor and labels across levels.
+
 1.F - Saves the resulting data frame into a comma separated file named "clean_data_UCI-HAR_tidy.txt"
 
 
