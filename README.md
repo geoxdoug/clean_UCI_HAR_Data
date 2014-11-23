@@ -13,6 +13,6 @@ Function returns 2 datasets:
 output[[1]]: a data frame 'all_final' with containing the tidy data set
 output[[2]]: a data frame 'tidy' with the means of all measurements for each subject by activity.
 
-Function creates a .csv file and a .txt file in the same directory:
+Function creates a .csv file and a .txt file in the same directory</br>
 A) .csv file called "clean_data_UCI-HAR_all_final.csv" containing data frame all_final
 B) .txt file called "clean_data_UCI-HAR_tidy.txt" containing data frame tidy
