@@ -22,7 +22,7 @@ Prrocessing and manipulation of the raw data is detailed below:
 1.F - Saves the resulting data frame into a comma separated file named "clean_data_UCI-HAR_tidy.txt"
 
 
-<strong>2)CodeBook Vaiables:</strong>
+<strong>2) CodeBook Vaiables:</strong>
 
 2.A - 'subject' is the id of the subject, as specified in subject_test.txt and subject_train.txt files
 
