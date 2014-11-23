@@ -1,4 +1,4 @@
-Background
+<strong>Background</strong>
 
 This project cleans the Human+Activity+Recognition+Using+Smartphones  data set 
 
@@ -9,7 +9,7 @@ Prrocessing and manipulation of the raw data is detailed below:
 
 <strong>1) Processing:</strong>
 
-1.A - Merges the measurement data of both the test and train data set. 
+1.A - Merges the measurement data of both the test and train data set.</br></br>
 1.B - Adds the variable 'subject' to both the test and train data sets.
 1.C - Addes the variable 'activity' to both the test and train data sets.
 1.D - Keeps onnly variables that are mean or standard deviations
