@@ -1,4 +1,4 @@
-Read Me for clean_UCI_HAR_Data
+Read Me for run_analysis() on UCI_HAR_Dataset
 ==================
 The script run_analysis.R processes the UCI-HAR dataset.
 The description of steps and variables is in the file codebook.md.
