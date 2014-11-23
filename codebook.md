@@ -7,7 +7,7 @@ https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Datas
 
 Prrocessing and manipulation of the raw data is detailed below:
 
-1) Processing:
+<strong>1) Processing:</strong>
 
 1.A - Merges the measurement data of both the test and train data set. 
 1.B - Adds the variable 'subject' to both the test and train data sets.
